@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 你好，我是小武！🀄
 
-<!--
-**chinaxiao123/chinaxiao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 💹 加密交易员 | 📊 数据分析师 | 🤖 AI Agent 玩家 | 🚀 Web3 探索者
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 我的工具箱
+
+```
+Python    ████████████████░░   80%
+JavaScript ██████████░░░░░░░░   50%
+Dart      ██████░░░░░░░░░░░░   30%
+Solidity  █████░░░░░░░░░░░░░   25%
+HTML/CSS  ██████████░░░░░░░░   50%
+```
+
+### 🔥 我在做什么
+
+- 📈 **加密货币交易** — 数据驱动的交易策略，币安广场内容创作
+- 🤖 **AI 自动化** — 使用 Hermes Agent / Claude Code 自动化工作流
+- 🌐 **Web3 开发** — 智能合约、DeFi 协议研究
+- 📊 **数据分析** — 市场数据挖掘、链上数据分析
+- 🧩 **开源贡献** — 参与 GitHub Bounty，用代码赚钱
+
+### 💡 我的理念
+
+> *"加密货币不仅是财富分配的工具，更是一场技术革命。"*
+
+### 📫 联系我
+
+- 📧 币安广场：@van000orz
+- 🐦 X / Twitter：@van000orz
+
+---
+
+⭐ **开源即力量，代码即财富！**
